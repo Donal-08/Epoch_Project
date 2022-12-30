@@ -1,2 +1,3 @@
-# Epoch_Project
-This is my repo for the Epoch Club's introductory level project on Reinforcement Learning(The domain which I chose to work on).
+# OpenAI Gym's Taxi-v3 Task
+## Solving the Taxi Problem from OpenAI Gym using Q-Learning
+This project was developed by Donal Loitam, Club member of Epoch (2022-2023).
