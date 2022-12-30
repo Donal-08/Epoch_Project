@@ -15,8 +15,14 @@ The environment map looks something like the figure below <br/>
 The algorithm used for training the reinforcement learning agent:
 - Q-learning
 
-### Results :
-a
+### Results : These are our trained model's performance evaluation after 100 episodes(pickup drop-off) 
+
+| Metric        | Q-learning    |
+| ------------- | ------------- |
+| Average reward  | 8.04  |
+| Average Penalties  | 0.00  |
+| Average timesteps | 12.96 |
+
 
 
 
