@@ -12,8 +12,6 @@ The environment map looks something like the figure below <br/>
 **States**: There are 500 possible states, corresponding to 25 possible grid locations, 5 locations for the passenger, and 4 destinations. <br/>
 **Actions**: There are 6 possible actions, corresponding to moving North, East, South, or West, picking up the passenger, and dropping off the passenger. <br/>
 
-<br/>
-
 The algorithm used for training the reinforcement learning agent:
 - Q-learning
 
