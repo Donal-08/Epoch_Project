@@ -12,7 +12,9 @@ The environment map looks something like this: <br/>
 **Actions**: There are 6 possible actions, corresponding to moving North, East, South, or West, picking up the passenger, and dropping off the passenger. <br/>
 
 <br/>
+
 ### Results :
+a
 
 
 
